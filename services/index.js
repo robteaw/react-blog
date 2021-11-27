@@ -257,5 +257,3 @@ export const getRecentPosts = async () => {
 
   return result.posts;
 };
-
-// In Graphcms, go to Settings then Environments to get the link and add to .env
